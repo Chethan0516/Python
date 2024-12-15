@@ -1,1 +1,2 @@
 print("Earth")
+print("Moon")
